@@ -1,2 +1,2 @@
-# KPIs-Dasboard
+# KPIs-Dashboard
 Power BI Dashboard
